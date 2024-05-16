@@ -1,0 +1,11 @@
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# Programs\HelperMethods\Root Beer Method\Root Beer Method\bin\Debug\netcoreapp2.1\Root Beer Method.deps.json
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# Programs\HelperMethods\Root Beer Method\Root Beer Method\bin\Debug\netcoreapp2.1\Root Beer Method.runtimeconfig.json
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# Programs\HelperMethods\Root Beer Method\Root Beer Method\bin\Debug\netcoreapp2.1\Root Beer Method.runtimeconfig.dev.json
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# Programs\HelperMethods\Root Beer Method\Root Beer Method\bin\Debug\netcoreapp2.1\Root Beer Method.dll
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# Programs\HelperMethods\Root Beer Method\Root Beer Method\bin\Debug\netcoreapp2.1\Root Beer Method.pdb
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# Programs\HelperMethods\Root Beer Method\Root Beer Method\obj\Debug\netcoreapp2.1\Root Beer Method.csprojAssemblyReference.cache
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# Programs\HelperMethods\Root Beer Method\Root Beer Method\obj\Debug\netcoreapp2.1\Root Beer Method.csproj.CoreCompileInputs.cache
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# Programs\HelperMethods\Root Beer Method\Root Beer Method\obj\Debug\netcoreapp2.1\Root Beer Method.AssemblyInfoInputs.cache
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# Programs\HelperMethods\Root Beer Method\Root Beer Method\obj\Debug\netcoreapp2.1\Root Beer Method.AssemblyInfo.cs
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# Programs\HelperMethods\Root Beer Method\Root Beer Method\obj\Debug\netcoreapp2.1\Root Beer Method.dll
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# Programs\HelperMethods\Root Beer Method\Root Beer Method\obj\Debug\netcoreapp2.1\Root Beer Method.pdb
